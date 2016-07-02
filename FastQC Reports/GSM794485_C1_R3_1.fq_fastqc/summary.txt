@@ -1,0 +1,11 @@
+PASS	Basic Statistics	GSM794485_C1_R3_1.fq.gz
+FAIL	Per base sequence quality	GSM794485_C1_R3_1.fq.gz
+FAIL	Per sequence quality scores	GSM794485_C1_R3_1.fq.gz
+PASS	Per base sequence content	GSM794485_C1_R3_1.fq.gz
+PASS	Per base GC content	GSM794485_C1_R3_1.fq.gz
+FAIL	Per sequence GC content	GSM794485_C1_R3_1.fq.gz
+PASS	Per base N content	GSM794485_C1_R3_1.fq.gz
+PASS	Sequence Length Distribution	GSM794485_C1_R3_1.fq.gz
+WARN	Sequence Duplication Levels	GSM794485_C1_R3_1.fq.gz
+PASS	Overrepresented sequences	GSM794485_C1_R3_1.fq.gz
+PASS	Kmer Content	GSM794485_C1_R3_1.fq.gz
